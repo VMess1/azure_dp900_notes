@@ -1,5 +1,6 @@
 # Azure DP900 Data Fundamentals Revision Notes
-My collection of notes for the Azure Data Fundamentals Exam.
+My collection of notes for the Azure Data Fundamentals Exam. The stucture of these notes follows the order as described by Microsoft to help with the natural progression of study. The titles of the directories are a guide of how to follow along, however there are a few additions to get a more thorough guide of data fundamentals with Azure.
+
 The content is taken from a mixture of the [Microsoft Azure study guide](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-900/#two-ways-to-prepare) as well as various Youtube videos which have helped enhance understanding. How the exam is tested is provided below
 
 ## Azure Skills Overview
@@ -8,6 +9,8 @@ The content is taken from a mixture of the [Microsoft Azure study guide](https:/
 3. Describe considerations for working with non-relational data on Azure (15–20%)
 4. Describe an analytics workload on Azure (25–30%)
 
+
+## Skills Breakdown
 ### Describe core data concepts (25–30%)
 #### Describe ways to represent data
 * Describe features of structured data
@@ -53,4 +56,4 @@ The content is taken from a mixture of the [Microsoft Azure study guide](https:/
 #### Describe data visualization in Microsoft Power BI
 * Identify capabilities of Power BI
 * Describe features of data models in Power BI
-* Identify appropriate visualizations for data
+* Identify appropriate visualisations for data
