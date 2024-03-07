@@ -1,6 +1,21 @@
 # Azure DP900 Data Fundamentals Revision Notes
 My collection of notes for the Azure Data Fundamentals Exam. The stucture of these notes follows the order as described by Microsoft to help with the natural progression of study. The titles of the directories are a guide of how to follow along, however there are a few additions to get a more thorough guide of data fundamentals with Azure.
 
+There are a few acronyms used throughout:
+* DB - Database
+* IaaS - Infrastructure as a Service
+* PaaS - Platform as a Service
+* OLTP - Online Transactional Processing
+* OLAP - Online Analytical Processing
+* VM - Virtual Machine
+* RDBMS - Relational Database Management System
+* DBMS - Database Management System
+* SQL - Structured Query Language
+* NoSQL - Non-SQL/Non-relational SQL, can also mean Not-Only SQL
+* API - Application Programming Interface
+* ETL - Extract, Transform, Load
+* ML - Machine Learning
+
 The content is taken from a mixture of the [Microsoft Azure study guide](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-900/#two-ways-to-prepare) as well as various Youtube videos which have helped enhance understanding. How the exam is tested is provided below
 
 ## Azure Skills Overview
@@ -30,12 +45,13 @@ The content is taken from a mixture of the [Microsoft Azure study guide](https:/
 ### Identify considerations for relational data on Azure (20–25%)
 #### Describe relational concepts
 * Identify features of relational data
-* Describe normalization and why it is used
+* Describe normalisation and why it is used
 * Identify common structured query language (SQL) statements
 * Identify common database objects
 #### Describe relational Azure data services
 * Describe the Azure SQL family of products including Azure SQL Database, Azure SQL Managed Instance, and SQL Server on Azure Virtual Machines
 * Identify Azure database services for open-source database systems
+
 ### Describe considerations for working with non-relational data on Azure (15–20%)
 #### Describe capabilities of Azure storage
 * Describe Azure Blob storage
